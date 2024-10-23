@@ -1,5 +1,5 @@
 # Email-Campaign-Effectiveness-Prediction
-
+![Img](Data/email_img.png)
 
 ## Project Overview
 
