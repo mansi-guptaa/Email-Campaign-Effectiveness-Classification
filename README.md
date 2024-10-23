@@ -1,5 +1,6 @@
 # Email-Campaign-Effectiveness-Prediction
 
+
 ## Project Overview
 
 This project focuses on developing a robust machine learning model to evaluate the effectiveness of email campaigns for small to medium businesses (SMBs). The objective is to classify emails into three categories—Ignored, Read, or Acknowledged—allowing businesses to optimize their email strategies and enhance customer engagement.
